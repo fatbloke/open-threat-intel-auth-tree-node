@@ -23,7 +23,7 @@ package org.forgerock.openam.auth.nodes;
 
 import com.google.inject.assistedinject.Assisted;
 import com.sun.identity.shared.debug.Debug;
-import org.forgerock.guava.common.collect.ImmutableList;
+import com.google.common.collect.ImmutableList;
 import org.forgerock.json.JsonValue;
 import org.forgerock.openam.auth.node.api.Action;
 import org.forgerock.openam.auth.node.api.Node;
